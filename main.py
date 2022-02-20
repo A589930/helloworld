@@ -4,4 +4,4 @@ now  = datetime.now()
 current_time = now.strftime("%H:%M:%S")
 print(current_time)
 
-print("owner is vijay")
+print("Owner is VIJAY")
