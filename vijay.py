@@ -1,1 +1,2 @@
 print("vijay")
+print("ajay")
